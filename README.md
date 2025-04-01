@@ -1,33 +1,28 @@
-# Olá, me chamo Ewerton 👋
+# DIO-Barbearia com Java e Angular
 
-Bem-vindo ao meu repositório! Eu sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e aprendizado contínuo. Este espaço é dedicado a compartilhar meus projetos, conhecimentos e explorar novas possibilidades no mundo da programação.
+Criando um APP Full Stack de Agendamento de Barbearia com Java e Angular
 
-## 🚀 Sobre mim
+Este projeto envolve o desenvolvimento de um aplicativo **full stack** para agendamentos em barbearias, utilizando **Java** no backend e **Angular** no frontend. O objetivo principal do sistema é fornecer uma solução prática e eficiente tanto para os clientes quanto para os proprietários de barbearias.
 
-Sou um(a) desenvolvedor(a) focado(a) em **Java** no backend e **Angular** no frontend. Tenho experiência em criar soluções escaláveis e eficientes, sempre buscando melhorar meu conhecimento e aplicar as melhores práticas de desenvolvimento.
+## Funcionalidades
 
-- **Paixões:** Desenvolvimento de software, Inteligência Artificial, e boas práticas de código.
-- **Interesses:** Aprender novas tecnologias, contribuir com a comunidade open-source e compartilhar conhecimento.
-- **Objetivo:** Criar soluções inovadoras e impactantes, que ajudem as pessoas e empresas a resolverem seus problemas de forma simples e eficiente.
+O Barber Shop oferece as seguintes funcionalidades principais:
 
-## 🔧 Tecnologias e Ferramentas
+- **Cadastro de clientes:** Permite o registro de novos clientes, facilitando o gerenciamento de informações de contato e histórico de serviços.
+- **Agendamento de horários:** Os clientes podem agendar horários de atendimento, garantindo conveniência e evitando superlotação na barbearia.
+- **Gerenciamento de serviços:** O sistema possibilita que os administradores da barbearia adicionem, editem e excluam serviços oferecidos, como cortes, barbas e outros tratamentos.
+  
+Com essa solução integrada, o Barber Shop oferece uma experiência completa e otimizada para a gestão de barbearias, proporcionando um ambiente mais organizado e eficiente.
 
-- **Linguagens:** Java, TypeScript, JavaScript
-- **Frameworks:** Spring Boot, Angular, Node.js
-- **Banco de Dados:** MySQL, MongoDB, PostgreSQL
-- **Ferramentas:** Git, GitHub, Docker, JUnit, npm, Maven
-- **Outros:** APIs REST, GraphQL, Microservices, Testes automatizados
+## Tecnologias Utilizadas
 
-## 🌱 O que estou aprendendo atualmente
+- **Backend:** Java (Spring Boot)
+- **Frontend:** Angular
+- **Banco de Dados:** MySQL
 
-- **Machine Learning** e **Inteligência Artificial**: Estou explorando o impacto da IA no desenvolvimento de software e buscando aprender novas técnicas e bibliotecas.
-- **Docker e Kubernetes**: Buscando entender melhor como criar ambientes de desenvolvimento e produção mais eficientes e escaláveis.
+### Contato
 
-## 📈 Estatísticas
+### Joelmir Silva
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&count_private=true&hide=prs)
-
-## 🤝 Como me encontrar
-
-- LinkedIn: [linkedin.com/in/ewerton-casado](https://www.linkedin.com/in/ewerton-casado-59a836202/ )
-- Instagram: [@ewertoncasado](https://www.instagram.com/ewertoncasado)
+[![E-mail : joelmirmanoel80@Gmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](joelmirmanoel80@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/joelmir-silva-451052134/)
